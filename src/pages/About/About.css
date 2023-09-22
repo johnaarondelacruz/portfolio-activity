@@ -1,0 +1,69 @@
+.about-text h1 {
+  font-family: "Dancing Script", cursive;
+  font-family: "Fira Sans", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2rem;
+  color: black;
+}
+
+.card-body {
+  background-color: #212529;
+  color: white;
+  text-align: center;
+  border: 2px solid #212529;
+}
+
+div.card-title.h5 {
+  font-family: "Dancing Script", cursive;
+  font-family: "Fira Sans", sans-serif;
+  font-weight: bold;
+}
+
+p.card-text {
+  font-family: "Dancing Script", cursive;
+  font-family: "Fira Sans", sans-serif;
+  font-weight: lighter;
+}
+
+img.card-img-top {
+  border: 3px solid #212529;
+  height: 200px;
+  object-fit: cover;
+}
+
+button.btn.btn-dark {
+  background: #525458;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding: 13px 30px;
+  border-radius: 30px;
+  transition: 0.4s;
+  margin-bottom: 20px;
+}
+
+button.btn.btn-dark:hover {
+  background: transparent;
+  border: 2px solid #525458;
+  color: white;
+  cursor: pointer;
+}
+
+.carousel-img {
+  height: 500px;
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: 2rem;
+}
+
+.about-text2 h1 {
+  font-family: "Dancing Script", cursive;
+  font-family: "Fira Sans", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2rem;
+  color: black;
+  margin-bottom: 2rem;
+}

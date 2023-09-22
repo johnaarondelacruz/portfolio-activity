@@ -1,0 +1,51 @@
+.contact-title {
+  font-family: "Dancing Script", cursive;
+  font-family: "Fira Sans", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2rem;
+  color: black;
+}
+
+label.form-label {
+  font-family: "Dancing Script", cursive;
+  font-family: "Fira Sans", sans-serif;
+  font-weight: bold;
+}
+
+.contact-text p {
+  font-family: "Dancing Script", cursive;
+  font-family: "Fira Sans", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.contact-icons {
+  bottom: 2rem;
+}
+
+button.btn.btn-dark {
+  background: #212529;
+  color: white;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding: 13px 30px;
+  border-radius: 30px;
+  transition: 0.4s;
+  margin-bottom: 20px;
+}
+
+button.btn.btn-dark:hover {
+  background: transparent;
+  border: 2px solid #212529;
+  color: white;
+  cursor: pointer;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

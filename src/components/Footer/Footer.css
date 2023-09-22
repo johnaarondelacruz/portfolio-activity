@@ -1,0 +1,46 @@
+footer {
+  background-color: #212529;
+}
+
+.footer-container {
+  width: 100%;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.social-icons a {
+  margin: 10px;
+  font-size: 30px;
+  border-radius: 50%;
+  color: white;
+}
+
+.social-icons a:hover {
+  color: rgb(173, 173, 173);
+}
+
+.footer-nav {
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer-nav a:hover {
+  color: rgb(173, 173, 173);
+}
+
+.footer-bottom p {
+  color: white;
+  text-align: center;
+  margin: 0;
+}
